@@ -1,5 +1,5 @@
 {
-  "name": "filehandling",
+  "name": "c",
   "version": "1.0.0",
   "main": "FileHandling.js",
   "scripts": {
@@ -8,7 +8,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "csv-parser": "^3.0.0"
+    "csv-parser": "^3.0.0",
+    "fast-csv": "^4.3.6"
   },
   "devDependencies": {},
   "description": ""
